@@ -98,6 +98,7 @@ Remote Desktop Services supports Physical GPUs presented with Discrete Device As
 
 Windows Server 2016 or later RD Virtualization Host servers support the following guest OSes:
 
+- Windows 11 Enterprise
 - Windows 10 Enterprise
 - Windows 8.1 Enterprise
 - Windows 7 SP1 Enterprise
